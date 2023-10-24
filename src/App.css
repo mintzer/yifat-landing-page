@@ -42,13 +42,13 @@ section {
   margin: 1rem;
   direction: rtl !important;
   text-align: right;
-/*  as two columns of sections when possible - 50% width on web, 100% on mobile*/
-    @media (max-width: 768px) {
-      width: 100%;
-    }
-    width: 47%;
+/*!*  as two columns of sections when possible - 50% width on web, 100% on mobile*!*/
+/*    @media (max-width: 768px) {*/
+/*      width: 88%;*/
+/*    }*/
+/*    width: 47%;*/
 /*two sections in a row*/
-    float: right;
+/*    float: right;*/
 
 
 }
@@ -91,17 +91,17 @@ section p {
 
 }
 
-#about, #services {
-/*  make them the same height*/
-    height: 180px;
-}
+/*#about, #services {*/
+/*!*  make them the same height*!*/
+/*    height: 180px;*/
+/*}*/
 
-#beliefs, #background {
-  /*  make them the same height*/
-  height: 290px;
-}
+/*#beliefs, #background {*/
+/*  !*  make them the same height*!*/
+/*  height: 290px;*/
+/*}*/
 
-#education, #contact {
-  /*  make them the same height*/
-  height: 170px;
-}
+/*#education, #contact {*/
+/*  !*  make them the same height*!*/
+/*  height: 170px;*/
+/*}*/
