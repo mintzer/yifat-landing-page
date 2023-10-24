@@ -34,13 +34,23 @@ nav a {
 }
 
 /* Section Styles */
+/*make the sections to be side by side on web (columns-like), and one after one on mobile*/
 section {
   background-color: #fff; /* Section background color */
   color: #333; /* Text color inside sections */
-  padding: 2rem;
-  margin: 2rem 0;
+  padding: 1.5rem;
+  margin: 1rem;
   direction: rtl !important;
   text-align: right;
+/*  as two columns of sections when possible - 50% width on web, 100% on mobile*/
+    @media (max-width: 768px) {
+      width: 100%;
+    }
+    width: 47%;
+/*two sections in a row*/
+    float: right;
+
+
 }
 
 section h2 {
