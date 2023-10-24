@@ -90,3 +90,18 @@ section p {
   }
 
 }
+
+#about, #services {
+/*  make them the same height*/
+    height: 180px;
+}
+
+#beliefs, #background {
+  /*  make them the same height*/
+  height: 290px;
+}
+
+#education, #contact {
+  /*  make them the same height*/
+  height: 170px;
+}

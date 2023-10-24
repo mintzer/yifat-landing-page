@@ -8,8 +8,8 @@ function App() {
         <h1>יפעת גרבר</h1>
         <nav>
           <a href="#about">אודות</a>
-          <a href="#beliefs">אני מאמין</a>
-          <a href="#services">שירותים</a>
+         <a href="#services">שירותים</a>
+         <a href="#beliefs">אני מאמין</a>
           <a href="#background">רקע וניסיון מקצועי</a>
           <a href="#education">השכלה אקדמאית והכשרות</a>
           <a href="#contact">צור קשר</a>
