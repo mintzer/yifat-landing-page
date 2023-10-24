@@ -17,7 +17,7 @@ body {
 header {
   background-color: #007BFF; /* Header background color */
   text-align: center;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 header h1 {
@@ -25,10 +25,15 @@ header h1 {
   font-weight: bold;
 }
 
+
+nav {
+  margin-top:  20px;
+}
+
 nav a {
   color: #fff; /* Navigation link color */
   text-decoration: none;
-  margin: 0 10px;
+  margin:  20px;
   font-size: 1rem;
   font-weight: bold;
 }
