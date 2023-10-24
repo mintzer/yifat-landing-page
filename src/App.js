@@ -7,14 +7,14 @@ function App() {
       <header>
         <h1>יפעת גרבר</h1>
           <h3>פסיכותרפיסטית ומטפלת במוסיקה</h3>
-        <nav>
-          <a href="#about">אודות</a>
-         <a href="#services">סוגי טיפול</a>
-         <a href="#beliefs">אני מאמין</a>
-          <a href="#background">רקע וניסיון מקצועי</a>
-          <a href="#education">השכלה אקדמאית והכשרות</a>
-          <a href="#contact">צור קשר</a>
-        </nav>
+        {/*<nav>*/}
+        {/*  <a href="#about">אודות</a>*/}
+        {/* <a href="#services">סוגי טיפול</a>*/}
+        {/* <a href="#beliefs">אני מאמין</a>*/}
+        {/*  <a href="#background">רקע וניסיון מקצועי</a>*/}
+        {/*  <a href="#education">השכלה אקדמאית והכשרות</a>*/}
+        {/*  <a href="#contact">צור קשר</a>*/}
+        {/*</nav>*/}
       </header>
       <section id="about">
         <h2>אודות</h2>
